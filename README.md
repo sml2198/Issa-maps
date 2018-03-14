@@ -1,33 +1,20 @@
-## Welcome to GitHub Pages
+# Some Maps of Crime, Voting, and Race in NYC
 
-You can use the [editor on GitHub](https://github.com/sml2198/Issa-maps/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## District Attorney Elections
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<img src="images/NYCDA17_votes.pdf" alt="hi" class="inline"/>
 
-### Markdown
+<img src="images/NYCDA17_votes_by_pop.pdf" alt="hi" class="inline"/>
 
+<img src="images/NYCDA17_votes_by_pop_race.pdf" alt="hi" class="inline"/>
+
+<img src="images/NYCDA17_votes_race.pdf" alt="hi" class="inline"/>
+
+## Crime in NYC 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sml2198/Issa-maps/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Maps made by Sarah Michael Levine. See more at [www.sarahmakesmaps.com](http://www.sarahmakesmaps.com).
