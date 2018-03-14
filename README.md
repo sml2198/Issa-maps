@@ -2,7 +2,7 @@
 
 ## District Attorney Elections
 
-<embed src="NYCDA17_votes.pdf" width="800px" height="2100px">
+<embed src="NYCDA17_votes.pdf">
 
 <img src="NYCDA17_votes_by_pop.pdf" alt="hi" class="inline"/>
 
