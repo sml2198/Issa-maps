@@ -4,7 +4,8 @@
 
 <embed src="NYCDA17_votes.pdf"/>
 
-<iframe src="NYCDA17_votes.pdf" style="width: 100%;height: 100%;border: none;"></iframe>
+<iframe src="NYCDA17_votes.pdf" style="width: 100%;height:100%;"> 
+</iframe>
 
 <img src="NYCDA17_votes_by_pop.pdf" alt="hi" class="inline"/>
 
