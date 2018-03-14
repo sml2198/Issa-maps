@@ -2,13 +2,13 @@
 
 ## District Attorney Elections
 
-<img src="images/NYCDA17_votes.pdf" alt="hi" class="inline"/>
+<img src="NYCDA17_votes.pdf" alt="hi" class="inline"/>
 
-<img src="images/NYCDA17_votes_by_pop.pdf" alt="hi" class="inline"/>
+<img src="NYCDA17_votes_by_pop.pdf" alt="hi" class="inline"/>
 
-<img src="images/NYCDA17_votes_by_pop_race.pdf" alt="hi" class="inline"/>
+<img src="NYCDA17_votes_by_pop_race.pdf" alt="hi" class="inline"/>
 
-<img src="images/NYCDA17_votes_race.pdf" alt="hi" class="inline"/>
+<img src="NYCDA17_votes_race.pdf" alt="hi" class="inline"/>
 
 ## Crime in NYC 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
